@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "477235480831",
+    "firebase_url": "https://notebook-24920.firebaseio.com",
+    "project_id": "notebook-24920",
+    "storage_bucket": "notebook-24920.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477235480831:android:112112bec47e2d6cd524ca",
+        "android_client_info": {
+          "package_name": "com.ahmed.notebookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477235480831-dmq3frh4pbj2k1jtctb55bo7nve4j1hb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvZgYinfvGM6HjTEcOCSmxMSnO0KXEjow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477235480831-dmq3frh4pbj2k1jtctb55bo7nve4j1hb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
